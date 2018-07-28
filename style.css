@@ -23,7 +23,7 @@ body {
 .kiri {
 	background-color: rgba(0,0,0,0.5);
 	width: 78%;
-	height: 360px;
+	height: 400px;
 	float: left;	
 	color: orange;
 	text-align: left;
@@ -32,7 +32,7 @@ body {
 .kanan {
 		background-color: rgba(0,0,0,1);
 	width: 20%;
-	height: 360px;
+	height: 400px;
 	text-align: center;
 	float: right;
 	color: orange;
@@ -71,7 +71,7 @@ a:visited {
 	background-color: rgba(0,0,0,0.5);
 	width: 100%;
 	color: orange;
-	height: 360px;
+	height: 400px;
 	padding-left: 30px;
 	padding-top: 5px;
 
@@ -91,7 +91,7 @@ img.gambar {
 	background-color: rgba(0,0,0,0.5);
 	width: 100%;
 	color: orange;
-	height: 360px;
+	height: 400px;
 	padding-left: 30px;
 	padding-top: 5px;
 	font-size: 18px;
