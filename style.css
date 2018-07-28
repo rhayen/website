@@ -1,0 +1,110 @@
+body { 
+	background-image: url('img/bck.png');
+    	 }
+
+.navigasi {	
+	padding-top: 40px;
+	padding-bottom: 30px;
+	font-size: 20px;
+	word-spacing: 25px;
+	float: right;
+	font-style: monospace;
+	padding-right: 40px;
+}
+
+#logo {
+	padding-top: 30px;
+	height: 70px;
+	width: 200px;
+	padding-bottom: 30px;
+	padding-left: 30px;	
+}
+
+.kiri {
+	background-color: rgba(0,0,0,0.5);
+	width: 78%;
+	height: 360px;
+	float: left;	
+	color: orange;
+	text-align: left;
+}
+
+.kanan {
+		background-color: rgba(0,0,0,1);
+	width: 20%;
+	height: 360px;
+	text-align: center;
+	float: right;
+	color: orange;
+	
+}
+
+.dalam-kiri {
+	padding-left: 30px;
+
+}
+.testi1{
+	margin-bottom: 20px;
+}
+a:link{
+	text-decoration: none;
+	color: orange;
+}
+ a:hover {
+    color: white;
+    text-decoration: underline;
+}
+a:visited {
+    color:orange;
+    text-decoration: underline;
+    }
+.profil {
+ 	
+ 	font-size: 18px;
+ }
+ .layanan {
+ 	font-size: 18px;
+ }
+
+ 
+.client{
+	background-color: rgba(0,0,0,0.5);
+	width: 100%;
+	color: orange;
+	height: 360px;
+	padding-left: 30px;
+	padding-top: 5px;
+
+
+}
+
+img.gambar {
+	padding-top: 30px;
+	padding-right: 60px;
+	float: center
+	padding-left:50px;
+
+	
+}
+
+.contact{
+	background-color: rgba(0,0,0,0.5);
+	width: 100%;
+	color: orange;
+	height: 360px;
+	padding-left: 30px;
+	padding-top: 5px;
+	font-size: 18px;
+
+
+	
+	
+}
+.contact-kiri{
+	float: left;
+	padding-right:  100px;
+}
+.contact-kanan{
+	float: right;
+	padding-right: 100px;
+}
